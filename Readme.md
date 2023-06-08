@@ -163,5 +163,5 @@ Please refer to the repository's README file for specific instructions on config
     {"context":{"dataSource":"sb-telemetry"},"querySql":"YOUR QUERY STRING"}
     ```
     
-    For more info on Obsrv API Service refer [**here**](https://github.com/Sunbird-Obsrv/obsrv-api-service/tree/main/swagger-doc)
+For more info on Obsrv API Service refer [**here**](https://github.com/Sunbird-Obsrv/obsrv-api-service/tree/main/swagger-doc)
     
