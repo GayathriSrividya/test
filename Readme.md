@@ -15,7 +15,7 @@ A datasource refers to a specific subset or portion of a dataset that is selecte
 
 ## How to setup the obsrv?
 
-The Obsrv Automation repository provides a set of tools and scripts for setting up and configuring Obsrv. Clone the obsrv automation repository from [here](https://github.com/Sunbird-Obsrv/obsrv-automation#readme).
+The Obsrv Automation repository provides a set of tools and scripts for setting up and configuring Obsrv. Clone the obsrv automation repository from [here](https://github.com/Sunbird-Obsrv/obsrv-automation).
 
 ### **Key Words:**
 
